@@ -2,4 +2,4 @@ Welcome to our family cookbook. We used to keep recipes in Confluence, but I fig
 
 ## Recipe list
 
-- [Congee](/recipes/congee)
+- [Congee](./recipes/congee)
