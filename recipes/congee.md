@@ -1,3 +1,9 @@
+---
+layout: page
+title: Congee
+permalink: /congee/
+---
+
 # Congee
 
 Base recipe ['Congee (Chinese Rice Porridge, 粥)'](https://redhousespice.com/congee/) by Wei Guo from Red House Spice. I chose this recipe one evening because I wanted one with simple ingredients and without the fanfare.
